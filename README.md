@@ -19,7 +19,8 @@ The data was fectched from binance api so they are real world data.
 - Displays model accuracy and the maximum depth reached by decision trees in the Random Forest.
 
 ## Dependencies
-- pandas, numpy, scikit-learn, pandas-ta
+run 
+pip install -r requirements.txt
 
 ## Usage
 Run the script to preprocess data, train the model, and generate predictions.
