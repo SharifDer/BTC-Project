@@ -17,9 +17,11 @@ The data was fectched from binance api so they are real world data.
 ## Results
 - Outputs predictions alongside actual values for comparison.
 - Displays model accuracy and the maximum depth reached by decision trees in the Random Forest.
-
+- 
 ## Dependencies
-run 
+To install the required dependencies, run the following command:
+
+```bash
 pip install -r requirements.txt
 
 ## Usage
